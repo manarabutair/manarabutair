@@ -7,5 +7,6 @@ Here are some ideas to get you started:
 
 - this is my readme file. 
 Hello 
+this is my github profile where i will be sharing more information about myself. 
 
 -->
