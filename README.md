@@ -1,4 +1,4 @@
-### Hi there 👋this is my github profile where i will be sharing more information about myself. 
+### Hi there 👋
 
 <!--
 **manarabutair/manarabutair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
