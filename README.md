@@ -1,4 +1,5 @@
-### Hi there 👋
+### Astronomy and Environmental Science enthusiast 🌍✨
+### Currently working on AI for combating wildfires. 
 
 <!--
 **manarabutair/manarabutair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
