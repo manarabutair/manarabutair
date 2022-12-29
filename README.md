@@ -1,4 +1,4 @@
-### AI for space exploration and environmental science. 🌍✨
+### Passionate for for space exploration and environmental science. 🌍✨
 
 <!--
 **manarabutair/manarabutair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
