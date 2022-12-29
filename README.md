@@ -1,4 +1,4 @@
-### AI for Astronomy and Environmental Science 🌍✨
+### Interested in space discovery and environmental causes. 🌍✨
 
 <!--
 **manarabutair/manarabutair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
