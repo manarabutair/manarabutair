@@ -1,5 +1,5 @@
 
-##### Data Science and Artificial Intelligence student
+##### Data Science and Artificial Intelligence student at PSUT
 ##### Interested in space exploration and environmental science 🌍✨
 
 <!--
